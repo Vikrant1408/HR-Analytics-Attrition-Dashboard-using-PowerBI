@@ -12,6 +12,8 @@ Employee attrition is a critical metric for any organization as it directly impa
 	•	Make data-driven decisions to improve retention
 
 Key Metrics
+
+
 	•	Total Employees: 1,473
 	•	Attrition Count: 237
 	•	Attrition Rate: 16.1%
@@ -20,6 +22,8 @@ Key Metrics
 	•	Average Tenure: 7 years
 
 Visual Insights
+
+
 	•	Attrition segmented by age, gender, education, salary bands, job roles, and departments
 	•	Deep dive into attrition rate by years at company
 	•	Highlights of departments and roles with the highest attrition
